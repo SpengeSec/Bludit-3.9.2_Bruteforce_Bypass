@@ -1,5 +1,5 @@
-# Blundit-3.9.2_Bruteforce_Bypass
-A Python3 script to bypass Blundit 3.9.2 bruteforce protection.
+# Bludit-3.9.2_Bruteforce_Bypass
+A Python3 script to bypass Bludit 3.9.2 bruteforce protection.
 
 Simply specify the list of usernames at ***un_wordlist_file = <filename.txt>***.
 
